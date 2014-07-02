@@ -1,0 +1,16 @@
+links:
+  - text: Nodejs api zh_CN
+    url: http://docs.cnodejs.net/cman/
+    last: true
+  - text: javascript 秘密花园
+    url: http://bonsaiden.github.io/JavaScript-Garden/zh/#function.general
+    last: true
+  - text: jsfiddle js test tool
+    url: http://jsfiddle.net/highcharts/kh5jY/
+    last: true
+  - text: artDialog
+    url: http://www.planeart.cn/demo/artDialog/index.html
+    last: true
+  - text: beautiful icon
+    url: http://findicons.com/search/mail
+    last: false

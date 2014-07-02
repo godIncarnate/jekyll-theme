@@ -2,7 +2,7 @@ page:
   - text: 文章分类
     url: /archives.html
     last: true
-  - text: 友情链接
+  - text: 学习文档和资源
     url: /links.html
     last: true
   - text: 关于我
